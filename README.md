@@ -1,3 +1,5 @@
- git clone https://github.com/kivenyangming/FaceCount
- echo "FacesCount"
+ git clone https://github.com/kivenyangming/FaceCount \
+ 
+ echo "FacesCount" \
+ 
  python demo.py
